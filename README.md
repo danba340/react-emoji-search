@@ -1,18 +1,14 @@
-Emoji Search
----
+## Emoji Search
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+An beginner friendly educational repo where the only functionality is filtering emojis.
+The repo has 5 Components and is designed to show the basics of React.
+The useState hook is used in App.js
+The useEffect hook is used in SearchResult.js
 
-
-
-Install
----
+## Install
 
 `npm install`
 
-
-
-Usage
----
+## Usage
 
 `npm start`
