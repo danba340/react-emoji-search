@@ -1,5 +1,7 @@
 ## Emoji Search
 
+![Screenshot](preview.png "Preview")
+
 An beginner friendly educational repo where the only functionality is filtering emojis.
 The repo has 5 Components and is designed to show the basics of React.
 The useState hook is used in App.js
