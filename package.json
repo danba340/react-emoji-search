@@ -2,7 +2,6 @@
   "name": "react-emoji-search",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "http://danba340.github.io/react-emoji-search",
   "devDependencies": {
     "prettier": "^1.17.1",
     "react-scripts": "^3.0.1"
