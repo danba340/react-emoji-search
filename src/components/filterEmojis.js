@@ -1,4 +1,4 @@
-import emojiList from "../emojiList.json";
+import emojiList from "../emojiList";
 
 /**
  * Returns emojis where title or keyword matches searchText and limit results to maxResults
